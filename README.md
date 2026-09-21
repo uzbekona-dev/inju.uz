@@ -75,7 +75,7 @@ INJU is built as a multi-platform product using **Go**, **Laravel**, **Vue**, **
 
 Visit **[inju.uz](https://inju.uz)** for current product information and access.
 
-- Found an issue or have a product idea? Open a [GitHub issue](https://github.com/xurshidbek1806/inju.uz/issues).
+- Found an issue or have a product idea? Open a [GitHub issue](https://github.com/uzbekona-dev/inju.uz/issues).
 - Found a security concern? Please follow our [security policy](SECURITY.md) and avoid publishing sensitive details.
 - Source-code contributions are not accepted through this repository; see [contributing guidelines](CONTRIBUTING.md).
 
